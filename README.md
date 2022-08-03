@@ -1,2 +1,5 @@
 # Echo_erver
-implement an echo server using the socket library.
+An echo server is implemented using a socket library.
+
+**RUN**
+python3 server.py --port <port>
